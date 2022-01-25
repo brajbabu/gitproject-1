@@ -1,2 +1,20 @@
-this is a git first hands on training class.
+This is a git first hands on training class.
+How to download or git on ubuntu
+
+"First check if git is already install with command" git --version
+
+sudo apt update
+sudo apt install git
+
+git process
+create a folder in the home directory eg. biswho1.txt
+cd to the directory eg cd bishwo/
+
+first initialize git to track the changes made with command
+git init[.git folder is created}
+git config --global user.com "bishworaj"
+git config --global user.email " bishwaraaajbabu@gmail.com
+ NOtel:- git user name and email is created with command to verify contributer for a particular project]
+
+
 
